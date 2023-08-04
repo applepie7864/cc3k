@@ -10,7 +10,7 @@ How the game works:
 - "f" stops enemies from moving until f is pressed again
 - "r" restarts the game
 - PC and stairs are blue, enemies are red, potions are green and gold is yellow
-- Next floor is reached when player reaches the stairs denoted by "\"
+- Next floor is reached when player reaches the stairs denoted by "\\"
 - You win the game when the fifth floor is reached
 - You lose the game when your HP reaches 0
 
